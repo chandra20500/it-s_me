@@ -16,6 +16,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scrollbar-width: none;
 }
 
 #preloader{
@@ -30,6 +31,7 @@ html{
     font-size: 10px;
     font-family: 'Roboto',sans-serif;
     color:#eee;
+    scrollbar-width: none;
 }
 body{
     width: 100%;
